@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.authors      = { "dotsquares395" => "rohan.sharma@dotsquares.com" }
   spec.platform     = :ios, "14.0"
   spec.source       = {:git => "https://github.com/dotsquares395/MeraPod.git", :tag => spec.version}
- spec.source_files =  'MeraPod/*.{swift}'
+ spec.source_files =  'MeraPod/**/*.{swift}'
  spec.swift_versions = '5.0'
  spec.xcconfig     = { "ENABLE_BITCODE" => "NO" }
 
