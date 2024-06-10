@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/dotsquares395/MeraPod"
   spec.license      =  "MIT"
   spec.authors      = { "dotsquares395" => "rohan.sharma@dotsquares.com" }
-  spec.platform     = :ios, "14.0"
+  spec.platform     = :ios, "13.0"
   spec.source       = {:git => "https://github.com/dotsquares395/MeraPod.git", :tag => spec.version}
  spec.source_files =  'MeraPod/*.{swift}'
  spec.swift_versions = '5.0'
