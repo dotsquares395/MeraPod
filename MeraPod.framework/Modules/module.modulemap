@@ -1,0 +1,11 @@
+framework module MeraPod {
+  umbrella header "MeraPod.h"
+  export *
+
+  module * { export * }
+}
+
+module MeraPod.Swift {
+  header "MeraPod-Swift.h"
+  requires objc
+}

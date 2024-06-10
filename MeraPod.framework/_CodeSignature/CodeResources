@@ -4,132 +4,132 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/SUM-Swift.h</key>
+		<key>Headers/MeraPod-Swift.h</key>
 		<data>
-		MFP3YqjPaODFTdqM1m5lUdJgimg=
+		brza6PpkFOOZVJzo3HYNINZR/1U=
 		</data>
-		<key>Headers/SUM.h</key>
+		<key>Headers/MeraPod.h</key>
 		<data>
-		owP4MlboZyIV2AgLaqV7bBmam58=
+		sBgrLnlYWzypfCbLayB+sUxz+/g=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Nb5+6EhD4m45YaZrnrsLNGeRMe0=
+		TZYtwKRe7Pco/QInoFxAlt1HY+c=
 		</data>
-		<key>Modules/SUM.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MeraPod.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		WBQnPVUUN7KmfOYzIYcFs3q2FWs=
+		FICBkTDW75oYpD57GUo9jTYVkt4=
 		</data>
-		<key>Modules/SUM.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MeraPod.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		mLn7tXZqKgJ+IK/APHqTA0S6vNg=
+		ibUv/zIOSfmchRVtQbYXs5o9Vn0=
 		</data>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
-		</data>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		9bYZdV6Ap2Rs2ukGpb3JWARU6ks=
-		</data>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		9ABnDcO+RIxweiShJzuNMnhAefQ=
-		</data>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ih2mbXzPx9p8s47wUITRrWfesQ4=
+		seWQrvKWrsm46BIo1Mv86rN/eEk=
 		</data>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1+F/nevfKBTJFgSEhQa7fCBiQQc=
+		mjUwbEqtCKpOGYs8qDF9QfdJCn4=
+		</data>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		sMSW5epRCTO7uvvehpvfHpWIWu0=
+		</data>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		DeiYudAMJ2wfe9MO6O6u9ECeicc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1qybDjRlLtsqloigU5JJpfk2jes=
+		LRZBgGuqu2+ifspehHy9b6zngpo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/SUM-Swift.h</key>
+		<key>Headers/MeraPod-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0vzx1X8SVkE4J3nRYZBXOyk8mt07R7UXgpp1A8vD0dI=
+			mFscRoh4scl1aSbYp9TZ4OuUY5jngvTd7ErIWHM/jYs=
 			</data>
 		</dict>
-		<key>Headers/SUM.h</key>
+		<key>Headers/MeraPod.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U7oSJzlnwuTAIdxeG2xqUWekzFafAF9SPq1atXPyorw=
+			d8tj9/br74IfT5AQclZ0KMwhpdqjxLZIHSledlVJW4I=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MeraPod.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0L63TyUaezTiGfTrBTTy94Kb2+JzJV40Sh2h89I2Ck=
+			j17/NiJWZk5qB1bXrYQVkuz4AeoVILLlr2JI3PDgGsU=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MeraPod.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZmkAKW2t8mEGcU0iVJyPlbVmvaCA2EPxOhFyxOp6FVg=
+			Zc5G42avnqO0OBEGulKTmIouKeW7jK7/iEI9ipdfT6Y=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZzqzooWQIuXS4is7XDNHlC1E/dHGjaacVCELfNVC3eA=
+			C7j+QTwO2vwEhnQWuNOx5iB4HwebNgtFuXm99fCZ91I=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MeraPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHnzOqf+OlRP1QGYZ2g9IGBf/EXRkZUWYFOyqmMidbU=
+			7cTb/1A1i8E9Y1uLfhRUE6nDNa8Q+j1mahxu4kJNBik=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fPE+ZyDQ+D22OMXV8VwGQnScpEdGoCS0vIy4rWUEbo=
+			KLbleIdsZWsz21rlfhYIRX3bxDHnMMQRf0J0SJTAJWs=
 			</data>
 		</dict>
-		<key>Modules/SUM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MeraPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4HOxY8aeSl+t7PDcE50BFSKVb+oJGL462eyeXBevTqM=
+			svXdOz+fOg+8y+MR4FMyKzWcw/Wyw8G4oNszC7Lag/s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uv8rm3IghoCYO5sL7IaNtOM11csZQd38ycwl1Lq2vLw=
+			ykZbIWA/z42jBUuc7rwkhWPHsBCs9cFw0y9ZvK+1quk=
 			</data>
 		</dict>
 	</dict>
