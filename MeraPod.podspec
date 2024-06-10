@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MeraPod"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "MeraPod check email validation send bool value true or false"
   spec.description  = "cCreate a lightweight custom email validation framework in Swift, Employ efficient email validation logic to verify addresses based on defined criteria."
   spec.homepage     = "https://github.com/dotsquares395/MeraPod"
